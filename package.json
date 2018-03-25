@@ -1,0 +1,25 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "Second assignment for COMP4513",
+  "main": "companies-server.js",
+  "dependencies": {
+    "crypto-md5": "^1.0.0",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rconnolly/comp4513-w2018-assign2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rconnolly/comp4513-w2018-assign2/issues"
+  },
+  "homepage": "https://github.com/rconnolly/comp4513-w2018-assign2#readme"
+}

@@ -1,0 +1,1 @@
+mongodb --bind_ip=$IP --dbpath=mongodb://testuser:testuser@ds213209.mlab.com:13209/heroku_vsgzfrzr --nojournal --rest "$@"
